@@ -1,0 +1,2 @@
+Activate CDN
+A content delivery network (CDN) optimises the delivery of your website to visitors. A CDN is especially useful if your website receives visitors from various geographic regions. 
