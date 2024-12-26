@@ -1,0 +1,11 @@
+Create a favicon
+Use a memorable logo for the favicon to clearly represent your website in the browser window and as a bookmark.
+Hide solution
+
+    Create the desired symbol or logo with a size of 16x16 pixels.
+    Save this image in the ICO file format.
+    Rename the file 'favicon.ico'.
+    Download the file via FTP to the root directory of your web presence.
+    Insert this code in the <Head> area of your website:
+
+<link rel="icon" href="/favicon.ico" type="image/nr-icon" /> <link rel="shortcut icon" href="/favicon.ico" type="image/nr-icon" />
