@@ -1,0 +1,70 @@
+<!-- page content -->
+<div class="w3-content" style="max-width:2000px;margin-top:46px">
+ 
+  <!-- printmaking section -->
+  <div class="w3-padding-75 w3-center w3-margin-top w3-container">
+		<h1>printmaking</h1>
+</div>
+  <!-- lightbox section -->
+<div class="container">
+	<div class="gallery">
+		<a href="images/printmaking/192_bus-N_edited.jpg" data-lightbox="prints" data-title="192 bus">
+		<img src="images/printmaking/192_bus-N_edited.jpg">
+		</a>
+		
+		<a href="images/printmaking/air-raid-shelter.jpg" data-lightbox="prints" data-title="Air raid shelter">
+		<img src="images/printmaking/air-raid-shelter.jpg">
+		</a>
+		
+		<a href="images/printmaking/brewery.jpg" data-lightbox="prints" data-title="Robinson brewery">
+		<img src="images/printmaking/brewery.jpg">
+		</a>
+		
+		<a href="images/printmaking/crowther_street.jpg" data-lightbox="prints" data-title="Crowther street">
+		<img src="images/printmaking/crowther_street.jpg">
+		</a>
+				
+		<a href="images/printmaking/Lowry-in-Stockport.jpg" data-lightbox="prints" data-title="Lowry in Stockport">
+		<img src="images/printmaking/Lowry-in-Stockport.jpg">
+		</a>
+		
+		<a href="images/printmaking/lyme_hall.jpg" data-lightbox="prints" data-title="Lyme Hall">
+		<img src="images/printmaking/lyme_hall.jpg">
+		</a>
+				
+		<a href="images/printmaking/overlookingtheisleofarran.jpg" data-lightbox="prints" data-title="Overlooking the Isle of Arran">
+		<img src="images/printmaking/overlookingtheisleofarran.jpg">
+		</a>
+		
+		<a href="images/printmaking/pear_mill.jpg" data-lightbox="prints" data-title="Pear mill">
+		<img src="images/printmaking/pear_mill.jpg">
+		</a>
+				
+		<a href="images/printmaking/redrock.jpg" data-lightbox="prints" data-title="Redrock">
+		<img src="images/printmaking/redrock.jpg">
+		</a>
+		
+		<a href="images/printmaking/staircase_house.jpg" data-lightbox="prints" data-title="Staircase House">
+		<img src="images/printmaking/staircase_house.jpg">
+		</a>
+		
+		<a href="images/printmaking/stockport-viaduct2.jpg" data-lightbox="prints" data-title="Stockport viaduct #2">
+		<img src="images/printmaking/stockport-viaduct2.jpg">
+		</a>
+		
+		<a href="images/printmaking/The Precinct-NR.jpg" data-lightbox="prints" data-title="The Precinct">
+		<img src="images/printmaking/The Precinct-NR.jpg">
+		</a>
+				
+		<a href="images/printmaking/the_pacer.jpg" data-lightbox="prints" data-title="The Pacer">
+		<img src="images/printmaking/the_pacer.jpg">
+		</a>
+				
+		<a href="images/printmaking/the-cage-at-lyme-park-web-2012-cropped.jpg" data-lightbox="prints" data-title="The Cage at Lyme Park">
+		<img src="images/printmaking/the-cage-at-lyme-park-web-2012-cropped.jpg">
+		</a>		
+	</div>
+</div>
+	<script src="lightbox-plus-jquery.min.js"></script>
+<!-- end of page content -->
+</div>
